@@ -23,4 +23,4 @@ Required datasets will be downloaded automatically.
 
 We provide some commands in `script.sh` to help you reproduce some results we report in Table 3, 4 of the paper.
 
-Change `--model` parameter for testing other models.
+Change `--model` and `--dataset` parameter for testing on other models and datasets.
